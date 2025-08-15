@@ -10,6 +10,7 @@ Install Netdata and visualize system and application performance metrics using D
 - Web browser for accessing dashboard
 
 ## Quick Start
+<img width="1912" height="802" alt="image" src="https://github.com/user-attachments/assets/c955f2e0-6703-4f90-ae8d-fecae448e602" />
 
 ### 1. Run Netdata Container
 ```bash
