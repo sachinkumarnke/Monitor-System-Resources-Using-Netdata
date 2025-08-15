@@ -1,4 +1,5 @@
 # Monitor System Resources Using Netdata
+<img width="1901" height="994" alt="Screenshot 2025-08-15 112608" src="https://github.com/user-attachments/assets/31b23001-1373-4823-8b3c-34ed131c3806" />
 
 ## Objective
 Install Netdata and visualize system and application performance metrics using Docker.
