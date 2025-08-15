@@ -22,7 +22,6 @@ Successfully installed Netdata and set up system resource monitoring with visual
 ### 3. Tools and Scripts Created
 
 #### Setup Automation
-- `setup-netdata.bat`: Windows batch script for easy deployment
 - `docker-compose.yml`: Advanced deployment with persistent storage
 
 #### Testing and Monitoring
